@@ -120,7 +120,7 @@ h1{
 /*css de la page d'accueil*/
 .accueil section{
     padding-top: 100px;
-    background-image: url("../img/accueil.jpg");
+    background-color: black;
     width: 100%;
     height: 550px;
 }
